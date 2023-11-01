@@ -1,0 +1,6 @@
+@relation student
+@attribute reg{100},
+@attribute id{100}
+
+@data
+19224113,143
